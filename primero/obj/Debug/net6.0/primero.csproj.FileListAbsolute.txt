@@ -1,0 +1,15 @@
+D:\Algo\VS\practica\primero\primero\bin\Debug\net6.0\primero.exe
+D:\Algo\VS\practica\primero\primero\bin\Debug\net6.0\primero.deps.json
+D:\Algo\VS\practica\primero\primero\bin\Debug\net6.0\primero.runtimeconfig.json
+D:\Algo\VS\practica\primero\primero\bin\Debug\net6.0\primero.dll
+D:\Algo\VS\practica\primero\primero\bin\Debug\net6.0\primero.pdb
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.csproj.AssemblyReference.cache
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.AssemblyInfoInputs.cache
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.AssemblyInfo.cs
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.csproj.CoreCompileInputs.cache
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.dll
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\refint\primero.dll
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.pdb
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\primero.genruntimeconfig.cache
+D:\Algo\VS\practica\primero\primero\obj\Debug\net6.0\ref\primero.dll
